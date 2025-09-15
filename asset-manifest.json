@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https://github.com/IamSannoy/smart-canteen-app.git/static/css/main.4649d5b5.css",
-    "main.js": "/https://github.com/IamSannoy/smart-canteen-app.git/static/js/main.781dd883.js",
-    "static/js/453.88a2e189.chunk.js": "/https://github.com/IamSannoy/smart-canteen-app.git/static/js/453.88a2e189.chunk.js",
-    "index.html": "/https://github.com/IamSannoy/smart-canteen-app.git/index.html",
-    "main.4649d5b5.css.map": "/https://github.com/IamSannoy/smart-canteen-app.git/static/css/main.4649d5b5.css.map",
-    "main.781dd883.js.map": "/https://github.com/IamSannoy/smart-canteen-app.git/static/js/main.781dd883.js.map",
-    "453.88a2e189.chunk.js.map": "/https://github.com/IamSannoy/smart-canteen-app.git/static/js/453.88a2e189.chunk.js.map"
+    "main.css": "/smart-canteen-app.git/static/css/main.4649d5b5.css",
+    "main.js": "/smart-canteen-app.git/static/js/main.b78248cb.js",
+    "static/js/453.88a2e189.chunk.js": "/smart-canteen-app.git/static/js/453.88a2e189.chunk.js",
+    "index.html": "/smart-canteen-app.git/index.html",
+    "main.4649d5b5.css.map": "/smart-canteen-app.git/static/css/main.4649d5b5.css.map",
+    "main.b78248cb.js.map": "/smart-canteen-app.git/static/js/main.b78248cb.js.map",
+    "453.88a2e189.chunk.js.map": "/smart-canteen-app.git/static/js/453.88a2e189.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4649d5b5.css",
-    "static/js/main.781dd883.js"
+    "static/js/main.b78248cb.js"
   ]
 }
